@@ -1,16 +1,19 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-string watermelon(){
+
+int main()
+{
+    
         int w;
-        cin >> w;
-        if(w%2==0){
-            return "YES";
+        cin >> w; 
+
+        if (w > 2 && w % 2 == 0)
+        {
+            cout << "YES" << endl;
         }
-        else {
-            return "NO";
+        else
+        {
+            cout << "NO" << endl;
         }
-    }
-int main(){
-   cout << watermelon();
-   return 0;
+    return 0;
 }
