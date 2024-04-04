@@ -18,20 +18,27 @@ int main(){
     // char c;
     // cin >> c;
     // cout << "c is"<< c;
-    int age;
-    cin >> age;
-    if(age<18){
-            cout<< "not elgible";
-    }
-    else if(age>=18){
-        cout << "Eligible";
+    // int age;
+    // cin >> age;
+    // if(age<18){
+    //         cout<< "not elgible";
+    // }
+    // else if(age>=18){
+    //     cout << "Eligible";
 
-    }
-    else if (age <=55 && age <= 57){
-        cout << "Retirement soon";
-    }
-    else if (age > 57){
-        cout << "Retirement Time";
+    // }
+    // else if (age <=55 && age <= 57){
+    //     cout << "Retirement soon";
+    // }
+    // else if (age > 57){
+    //     cout << "Retirement Time";
+    // }
+
+    for(int i = 0; i<=10; i++){
+        for(int j=0; j<10; j++){
+            cout << '*' ;
+        }
+        cout << endl;
     }
     return 0;
 }
