@@ -1,0 +1,53 @@
+Day 1: Complexity Analysis
+
+Day 2: Arrays Continued - Sliding Window + Problems
+
+Day 3: Recursion
+
+Day 4: Binary Search - Part 1
+
+Day 5: Binary Search - Part 2
+
+Day 6: Linked Lists
+
+Day 7: Stacks
+
+Day 8: Queues
+
+Day 9: Heaps
+
+Day 10: Maps + Sets
+
+Day 11: Doubt Clearing + Problem Solving
+
+Day 12: Trees - 1 (Binary Trees - Beginner problems)
+
+Day 13: Trees - 2 (Binary Trees - Intermediate to advanced problems)
+
+Day 14: Trees - 3 (N-ary trees)
+
+Day 15: DP - 1 (Beginner problems)
+
+Day 16: DP - 2 (Intermediate problems)
+
+Day 17: DP - 3 (Intermediate problems + Advanced problems + Optimisations)
+
+Day 18: Doubt Clearing + Problem Solving
+
+Day 19: Disjoint Set Union
+
+Day 20: Tries
+
+Day 21: Graphs - 1 (BFS + DFS + Problems)
+
+Day 22: Graphs - 2 (MST + Dijkstra + FW + Problems)
+
+Day 23: Graphs - 3 (Directed Graphs + Toplogical Sorting + SCC + Problems)
+
+Day 24: Doubt Clearing + Problem Solving
+
+Day 26: Articulation Points + Bridges in Graphs
+
+Day 28: Advanced problems in Graphs (Graph DP + general advanced problems)
+
+Day 29 - 32: Other advances concepts (Tree dp, Range queries DS, Dp optimisations) + Problem solving + Doubt clearing (Buffer period)
