@@ -14,7 +14,7 @@ int main(){
         cout<< "YES\n";
     }
     else {
-        cout << "NO";
+        cout << "NO\n";
     }
   }
 return 0;
